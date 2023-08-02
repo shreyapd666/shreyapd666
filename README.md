@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyapd666&label=Profile%20views&color=0e75b6&style=flat" alt="shreyapd666" /> </p>
 
-- 🌱 I’m currently learning **R**
+- 🌱 I’m in the process learning for **Analyst**
 
 - 💬 Ask me about **JAVA, React, MySQL**
 
 - 📫 How to reach me **shreyapd666@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and I am!**
+- ⚡ Fun fact: **I think I am funny and I am!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
